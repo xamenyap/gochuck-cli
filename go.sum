@@ -12,3 +12,5 @@ github.com/stretchr/testify v1.2.2 h1:bSDNvY7ZPG5RlJ8otE/7V6gMiyenm9RtJ7IUVIAoJ1
 github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
 github.com/xamenyap/gochuck v0.1.0 h1:J5HGi1E3SLFF1I9UzuFV1U9rHk+pCIP5sA0I4hWkXXw=
 github.com/xamenyap/gochuck v0.1.0/go.mod h1:NyQqWJO10UwL03YicWgL60yBYjDWiHSVOK31L0ILsSY=
+github.com/xamenyap/gochuck v0.1.1 h1:hoxcllhGdWtLZ7Uy9AWMkIbA25nUbZtkPpydqtthf14=
+github.com/xamenyap/gochuck v0.1.1/go.mod h1:2qqO/vN/G0/MczYb2l50PrWTxXHH9FMLXUBwhI7GPdg=
