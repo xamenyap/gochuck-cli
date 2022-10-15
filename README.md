@@ -1,5 +1,5 @@
 # gochuck-cli
-A CLI program to display Chuck Norris jokes
+A CLI program to display Chuck Norris jokes. Required Go version 1.16 and above.
 
 ## Usage
 To build the binary file, simply run
